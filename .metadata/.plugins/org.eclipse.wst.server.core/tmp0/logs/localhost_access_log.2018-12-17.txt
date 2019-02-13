@@ -1,0 +1,10 @@
+127.0.0.1 - - [17/Dec/2018:10:12:01 -0200] "GET / HTTP/1.1" 404 1036
+0:0:0:0:0:0:0:1 - - [17/Dec/2018:10:12:02 -0200] "GET /Navegacao/faces/menu.xhtml HTTP/1.1" 200 1111
+0:0:0:0:0:0:0:1 - - [17/Dec/2018:10:12:03 -0200] "GET /favicon.ico HTTP/1.1" 404 1047
+0:0:0:0:0:0:0:1 - - [17/Dec/2018:10:12:06 -0200] "POST /Navegacao/faces/menu.xhtml;jsessionid=4F54CA84C232CA81A6058FBE067B550E HTTP/1.1" 200 1067
+0:0:0:0:0:0:0:1 - - [17/Dec/2018:10:12:06 -0200] "POST /Navegacao/faces/menu.xhtml HTTP/1.1" 200 1068
+0:0:0:0:0:0:0:1 - - [17/Dec/2018:10:12:14 -0200] "GET /Navegacao/faces/produto.xhtml HTTP/1.1" 200 252
+0:0:0:0:0:0:0:1 - - [17/Dec/2018:10:12:21 -0200] "GET /Navegacao/faces/index.xhtml HTTP/1.1" 404 1090
+0:0:0:0:0:0:0:1 - - [17/Dec/2018:10:12:35 -0200] "GET /Navegacao/faces/login.xhtml HTTP/1.1" 200 1115
+0:0:0:0:0:0:0:1 - - [17/Dec/2018:11:24:23 -0200] "POST /Navegacao/faces/login.xhtml HTTP/1.1" 500 2009
+0:0:0:0:0:0:0:1 - - [17/Dec/2018:11:24:27 -0200] "POST /Navegacao/faces/login.xhtml HTTP/1.1" 500 2009
